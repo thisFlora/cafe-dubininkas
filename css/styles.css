@@ -227,6 +227,12 @@ form textarea {
 .logo-redes:hover {
     transform: scale(1.5);
 }
+
+#carouselExampleIndicators {
+    padding-top: 20px;
+    width: 80%;
+    height: 70%;
+}
 /* =============== Fin Contacto =============== */
 
 footer {
